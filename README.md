@@ -1,3 +1,5 @@
+en | [ru](https://github.com/ncer/photoshop-scripts/blob/master/README_RU.md)
+
 ### Installing a Photoshop Script
 1. Close Photoshop if it is open.
 2. Copy the script and its ‘Scripts Only’ folder to the Scripts folder in your Photoshop installation directory.
